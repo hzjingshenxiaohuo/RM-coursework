@@ -1,0 +1,123 @@
+﻿const generatedBibEntries = {
+    "balcan2010modeling": {
+        "author": "Balcan, Duygu and others",
+        "doi": "10.1073/pnas.0906910107",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "keywords": "type:spatial modeling, infectious disease spread, mobility data, global simulation, visualization",
+        "number": "51",
+        "pages": "21484--21489",
+        "series": "Visual Tools for Simulation and Monitoring",
+        "title": "Modeling the spatial spread of infectious diseases: The Global Epidemic and Mobility computational model",
+        "type": "article",
+        "volume": "107",
+        "year": "2010"
+    },
+    "dong2020dashboard": {
+        "author": "Dong, Ensheng and Du, Hongru and Gardner, Lauren",
+        "doi": "10.1016/S1473-3099(20)30120-1",
+        "journal": "The Lancet Infectious Diseases",
+        "keywords": "type:COVID-19, real-time tracking, web dashboard, public health monitoring, interactive visualization",
+        "number": "5",
+        "pages": "533--534",
+        "publisher": "Elsevier",
+        "series": "Visual Tools for Simulation and Monitoring",
+        "title": "An interactive web-based dashboard to track COVID-19 in real time",
+        "type": "article",
+        "volume": "20",
+        "year": "2020"
+    },
+    "dykes2022visualizing": {
+        "author": "Dykes, Jason and others",
+        "doi": "10.1098/rsta.2021.0299",
+        "journal": "Philosophical Transactions of the Royal Society A",
+        "keywords": "type:epidemic modeling, visualization challenges, visual analytics, evaluation framework, design recommendations",
+        "number": "2233",
+        "publisher": "The Royal Society",
+        "series": "Frameworks and Surveys",
+        "title": "Visualizing epidemic models: challenges, solutions, reflections and recommendations",
+        "type": "article",
+        "volume": "380",
+        "year": "2022"
+    },
+    "galloway2016vast": {
+        "author": "Galloway, Devin D. and others",
+        "booktitle": "2016 IEEE Conference on Visual Analytics Science and Technology (VAST)",
+        "doi": "10.1109/VAST.2016.7883511",
+        "keywords": "type:pandemic planning, agent-based modeling, visual analytics, preparedness, policy simulation",
+        "pages": "81--90",
+        "publisher": "IEEE",
+        "series": "Decision Support and Public Communication",
+        "title": "Visual Analytics for Pandemic Planning: A Case Study Using Agent-Based Simulation",
+        "type": "inproceedings",
+        "year": "2016"
+    },
+    "germann2019simulation": {
+        "author": "Germann, Timothy C. and others",
+        "doi": "10.1016/j.socnet.2019.07.001",
+        "journal": "Social Networks",
+        "keywords": "type:epidemic simulation, social networks, large-scale modeling, visualization, contact tracing",
+        "pages": "1--17",
+        "publisher": "Elsevier",
+        "series": "Visual Tools for Simulation and Monitoring",
+        "title": "Epidemic simulation and visualization on large-scale social contact networks",
+        "type": "article",
+        "volume": "59",
+        "year": "2019"
+    },
+    "neher2020scenarios": {
+        "author": "Neher, Richard A. and others",
+        "doi": "10.1101/2020.03.27.20045885",
+        "journal": "medRxiv",
+        "keywords": "type:COVID-19, scenario modeling, epidemiological simulation, interactive tool, public policy",
+        "series": "Decision Support and Public Communication",
+        "title": "COVID-19 Scenarios: An interactive tool to explore the spread and impact of COVID-19",
+        "type": "article",
+        "year": "2020"
+    },
+    "spreen2020visual": {
+        "author": "Spreen, David and others",
+        "booktitle": "Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
+        "doi": "10.1145/3313831.3376149",
+        "keywords": "type:multivariate analysis, infectious disease, visual analytics, uncertainty, decision support",
+        "pages": "1--14",
+        "publisher": "ACM",
+        "series": "Decision Support and Public Communication",
+        "title": "Visual Analytics for Multivariate Infectious Disease Models",
+        "type": "inproceedings",
+        "year": "2020"
+    },
+    "wang2021epiviz": {
+        "author": "Wang, Yafeng and others",
+        "doi": "10.1109/TVCG.2021.3054867",
+        "journal": "IEEE Transactions on Visualization and Computer Graphics",
+        "keywords": "type:visual analytics, epidemiology, infectious diseases, simulation, interactive tools",
+        "series": "Visual Tools for Simulation and Monitoring",
+        "title": "EpiViz: A Tool for Visual Analytics in Infectious Disease Epidemiology",
+        "type": "article",
+        "year": "2021"
+    },
+    "xia2022vida": {
+        "author": "Xia, Hao and others",
+        "doi": "10.1109/TVCG.2022.3145921",
+        "journal": "IEEE Transactions on Visualization and Computer Graphics",
+        "keywords": "type:interactive decision support, epidemic modeling, scenario analysis, public communication, visual analytics",
+        "publisher": "IEEE",
+        "series": "Decision Support and Public Communication",
+        "title": "VIDA: Visual Interactive Decision Analysis for Epidemic Modeling",
+        "type": "article",
+        "year": "2022"
+    },
+    "zheng2019flowmaps": {
+        "author": "Zheng, Yahui and others",
+        "doi": "10.1109/TVCG.2019.2894463",
+        "journal": "IEEE Transactions on Visualization and Computer Graphics",
+        "keywords": "type:flow visualization, disease spread, mobility patterns, spatiotemporal data, decision support",
+        "number": "1",
+        "pages": "76--86",
+        "series": "Decision Support and Public Communication",
+        "title": "FlowMaps for Understanding the Spread of Infectious Diseases",
+        "type": "article",
+        "volume": "25",
+        "year": "2019"
+    }
+};
