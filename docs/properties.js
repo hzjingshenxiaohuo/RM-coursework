@@ -2,25 +2,25 @@
  * Name as used as title for the main page
  * @type {string}
  */
-var title = 'SurVis Literature Browser';
+var title = 'SurVis Literature Collection';
 
 /**
  * Relative path to the data directory
  * @type {string}
  */
-var dataDir = '../src/data/';
+var dataDir = 'data/';
 
 /**
  * Relative path to the js directory
  * @type {string}
  */
-var jsDir = '../src/js/';
+var jsDir = 'js/';
 
 /**
  * Relative path to the styles directory
  * @type {string}
  */
-var stylesDir = '../src/styles/';
+var stylesDir = 'styles/';
 
 /**
  * Options for displaying tag clouds.
@@ -32,12 +32,15 @@ var stylesDir = '../src/styles/';
 var tagCloudOptions = [{
     field: 'keywords',
     title: 'Keywords',
+    minTagFrequency: 1
 }, {
     field: 'author',
     title: 'Authors',
+    minTagFrequency: 1
 }, {
     field: 'series',
     title: 'Series',
+    minTagFrequency: 1
 }];
 
 /**
@@ -50,17 +53,17 @@ var editable = true;
  * Subtitle describing the paper the data is referring to (set to null to deactivate)
  * @type {{html: string, id: string}}
  */
-var paper = null;/*{
+var paper = {
     html: 'Sample literature collection for <b><a href="http://www.visus.uni-stuttgart.de/uploads/tx_vispublications/eurovis14-star.pdf" target="_blank">SurVis</a></b>',
     id: 'Beck2016Visual'
-};*/
+};
 
 /**
  * Extra pages like an about page that will be listed in the footer an can be opened on demand (page name -> path)
  */
-var extraPages = null /*{
-    'about': '../src/about.html'
-};*/
+var extraPages = {
+    'about': 'about.html'
+};
 
 /**
  * Custom style as path to an extra css file (leave empty if not applicable)
